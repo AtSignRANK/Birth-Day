@@ -1,0 +1,12 @@
+name: Birth-Day
+main: io.github.rank.birthday.BirthDayPlugin
+version: 1.17.1
+api-version: 1.17
+author: ASR
+
+commands:
+  match:
+  navigator:
+  maker:
+  music:
+  piano:
